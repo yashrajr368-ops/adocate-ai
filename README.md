@@ -121,7 +121,9 @@ python app.py
 Open
 
 ```
-http://127.0.0.1:5000
+🌐 Open the Website Here:
+Primary Link: http://127.0.0.1:5000
+Alternative Link: http://localhost:5000
 ```
 
 ---
