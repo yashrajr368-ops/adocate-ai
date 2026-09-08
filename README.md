@@ -1,5 +1,3 @@
-# adocate-ai
-An AI-powered Legal Assistant built with Flask, SQLite, and Gemini AI that helps clients and advocates manage cases, generate legal reports, upload documents, and receive AI-powered legal guidance.
 # ⚖️ AI Advocate
 
 AI Advocate is an AI-powered legal assistance platform developed using **Python Flask**, **SQLite**, and **Google Gemini AI**.
@@ -121,9 +119,7 @@ python app.py
 Open
 
 ```
-🌐 Open the Website Here:
-Primary Link: http://127.0.0.1:5000
-Alternative Link: http://localhost:5000
+http://127.0.0.1:5000
 ```
 
 ---
